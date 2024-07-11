@@ -2,7 +2,7 @@
   "name": "task-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhii-prozhyvarov.github.io/task-2/",
+  "homepage": "https://serhii-prozhyvarov.github.io/task-2_FeedBack/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
